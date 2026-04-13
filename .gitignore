@@ -1,3 +1,13 @@
+# Claude Code session scaffolding (not part of the public project)
+CLAUDE.md
+.claude/
+
+# Project-specific artifacts
+data/raw/
+data/processed/
+models/
+reports/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

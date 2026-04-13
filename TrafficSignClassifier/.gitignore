@@ -1,0 +1,10 @@
+# Ignore the data 
+Data/_4GB/*
+Data/_8GB/*
+Data/_22GB/*
+
+# Ignore models
+models/*
+
+# Extra
+.DS_Store
