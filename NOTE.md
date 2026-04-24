@@ -1,0 +1,2 @@
+I think I might delete this or put this project on pause. I'm not that big on image nets right now. And the bulk inspiration for this project came from my TrafficSignClassifier project in college.
+Actually I think I can repurpose the pipeline to be a simple example project of my ML skills and how I can take the face finder application and combine it with a classifier that can classify some cool things I'm doing at my desk... Like how many fingers I'm holding up
